@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+spotipy
+openai
+youtube-search-python
+yt-dlp
+scikit-learn
+google-api-python-client
